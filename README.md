@@ -5,5 +5,5 @@
 Reproducing the results reported in our paper, please run the code as follows:
 
 ```
-python runRL.py
+python run.py
 ```
