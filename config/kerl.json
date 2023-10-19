@@ -1,0 +1,13 @@
+{
+    "L": 50,
+    "T": 3,
+    "d": 100,
+    "n_iter": 100,
+    "seed": 1234,
+    "learning_rate": 1e-3,
+    "l2": 0,
+    "log_dir": "./tmp/Amazon_Beauty/seq_train",
+    "log_dir_cloth": "./tmp/Amazon_Clothing/seq_train",
+    "log_dir_cell": "./tmp/Amazon_Cellphones/seq_train",
+    "log_dir_beauty": "./tmp/Amazon_Beauty/seq_train"
+}

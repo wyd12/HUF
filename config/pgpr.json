@@ -1,0 +1,17 @@
+{
+    "dataset": "beauty",
+    "name": "train_agent",
+    "lr": 1e-4,
+    "max_acts": 250,
+    "max_path_len": 3,
+    "gamma": 0.99,
+    "ent_weight": 1e-3,
+    "act_dropout": 0.5,
+    "state_history": 1,
+    "hidden": [512, 256],
+    "topk": [25, 5, 1],
+    "log_dir": "tmp/Amazon_Beauty/train_agent",
+    "log_dir_cloth": "tmp/Amazon_Clothing/train_agent",
+    "log_dir_cell": "tmp/Amazon_Cellphones/train_agent",
+    "log_dir_beauty": "tmp/Amazon_Beauty/train_agent"
+}
